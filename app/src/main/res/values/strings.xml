@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lnct Meet 2</string>
+    <string name="submit" />
+    <string name="attach_file">Attach IMG/DOC File</string>
+    <string name="attach_pdf" >Attach PDF File</string>
+    <string-array name="tags_Array">
+        <item>Workshop</item>
+        <item>Seminar</item>
+        <item>Internship</item>
+        <item>Notice</item>
+        <item>Other</item>
+    </string-array>
+    <string name="tab_notice">Notice</string>
+    <string name="tab_internship">Internship</string>
+    <string name="tab_seminar">Seminar</string>
+    <string name="tab_workshop">Workshop</string>
+    <string name="tab_other">Other</string>
+    <string-array name="sendto_Array">
+        <item>All</item>
+        <item>sem-1</item>
+        <item>sem-2</item>
+        <item>sem-3</item>
+        <item>sem-4</item>
+        <item>sem-5</item>
+        <item>sem-6</item>
+        <item>sem-7</item>
+        <item>sem-8</item>
+    </string-array>
+</resources>
